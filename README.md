@@ -1,7 +1,7 @@
 # 🧙‍♂️ WizardChase
 
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="WizardChase Logo" width="120" height="120">
+  <img width="1024" height="1536" alt="wizardChaseLogo" src="https://github.com/user-attachments/assets/904ee5b5-feb4-4ee1-a893-0f0d55588b44" />
   <h2>🎮 Catch the Wizard, Beat Your High Score! 🎯</h2>
 </div>
 
@@ -10,11 +10,10 @@
 ## 📱 Download & Play / İndir ve Oyna
 
 ### 🎬 Watch Demo / Demo İzle
-[![Demo Video](https://img.shields.io/badge/📹_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_URL_HERE)
+https://github.com/user-attachments/assets/c19dea8d-e120-47eb-bc28-088d07ca2147
 
 ### 📥 Download APK / APK İndir
-[![Download APK](https://img.shields.io/badge/📱_Download_APK-00C851?style=for-the-badge&logo=android&logoColor=white)](YOUR_APK_DOWNLOAD_LINK_HERE)
-
+[GitHub Releases](https://github.com/[KullanıcıAdı]/WizardChase/releases) sayfasından indirin
 ---
 
 ## 📲 Installation Guide / Kurulum Rehberi
