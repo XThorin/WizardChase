@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizard Chase</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Wizard Chase</string>
+    <string name="welcome_subtitle">Dự án Anoma</string>
+    <string name="player_name_hint">Nhập tên người chơi của bạn</string>
+    <string name="start_game">Bắt đầu Trò chơi</string>
+    <string name="game_rules_title">Luật Chơi</string>
+    <string name="game_rules">• Bắt phù thủy để kiếm điểm\n• Phù thủy di chuyển đến vị trí mới mỗi giây\n• Thu thập power-up để nhận thưởng\n• Đạt điểm cao nhất trong 60 giây</string>
+    
+    <!-- Game Screen -->
+    <string name="score">Điểm</string>
+    <string name="time">Thời gian</string>
+    <string name="wizard_description">Phù thủy</string>
+    
+    <!-- Results Screen -->
+    <string name="game_over">Kết thúc Trò chơi!</string>
+    <string name="results">Kết quả</string>
+    <string name="player">Người chơi</string>
+    <string name="final_score">Điểm Cuối</string>
+    <string name="time_played">Thời gian Chơi</string>
+    <string name="seconds">giây</string>
+    <string name="new_record">🎉 Kỷ lục mới! 🎉</string>
+    <string name="play_again">Chơi Lại</string>
+    <string name="share_score">Chia sẻ trên X</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">Cài đặt</string>
+    <string name="save">Lưu</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_korean">한국어</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_russian">Русский</string>
+    
+    <!-- Navigation -->
+    <string name="back">Quay lại</string>
+    
+    <!-- Game Exit Dialog -->
+    <string name="exit_game_title">Thoát Trò chơi</string>
+    <string name="exit_game_message">Bạn có chắc chắn muốn thoát khỏi trò chơi?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizard Chase</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Wizard Chase</string>
+    <string name="welcome_subtitle">Proyek Anoma</string>
+    <string name="player_name_hint">Masukkan nama pemain Anda</string>
+    <string name="start_game">Mulai Permainan</string>
+    <string name="game_rules_title">Aturan Permainan</string>
+    <string name="game_rules">• Tangkap penyihir untuk mendapatkan poin\n• Penyihir bergerak ke posisi baru setiap detik\n• Kumpulkan power-up untuk bonus\n• Dapatkan skor tertinggi dalam 60 detik</string>
+    
+    <!-- Game Screen -->
+    <string name="score">Skor</string>
+    <string name="time">Waktu</string>
+    <string name="wizard_description">Penyihir</string>
+    
+    <!-- Results Screen -->
+    <string name="game_over">Permainan Selesai!</string>
+    <string name="results">Hasil</string>
+    <string name="player">Pemain</string>
+    <string name="final_score">Skor Akhir</string>
+    <string name="time_played">Waktu Bermain</string>
+    <string name="seconds">detik</string>
+    <string name="new_record">🎉 Rekor Baru! 🎉</string>
+    <string name="play_again">Main Lagi</string>
+    <string name="share_score">Bagikan di X</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">Pengaturan</string>
+    <string name="save">Simpan</string>
+    <string name="language">Bahasa</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_korean">한국어</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_russian">Русский</string>
+    
+    <!-- Navigation -->
+    <string name="back">Kembali</string>
+    
+    <!-- Game Exit Dialog -->
+    <string name="exit_game_title">Keluar dari Permainan</string>
+    <string name="exit_game_message">Apakah Anda yakin ingin keluar dari permainan?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+</resources>

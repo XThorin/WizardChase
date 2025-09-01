@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizard Chase</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Wizard Chase</string>
+    <string name="welcome_subtitle">Anoma Projesi</string>
+    <string name="player_name_hint">Oyuncu adınızı girin</string>
+    <string name="start_game">Oyuna Başla</string>
+    <string name="game_rules_title">Oyun Kuralları</string>
+    <string name="game_rules">• Wizard\'ı yakalayarak puan kazanın\n• Wizard her saniye yeni bir konuma hareket eder\n• Power-up\'ları toplayarak bonus alın\n• 60 saniye içinde en yüksek skoru yapın</string>
+    
+    <!-- Game Screen -->
+    <string name="score">Skor</string>
+    <string name="time">Süre</string>
+    <string name="wizard_description">Wizard</string>
+    
+    <!-- Results Screen -->
+    <string name="game_over">Oyun Bitti!</string>
+    <string name="results">Sonuçlar</string>
+    <string name="player">Oyuncu</string>
+    <string name="final_score">Final Skor</string>
+    <string name="time_played">Oynanan Süre</string>
+    <string name="seconds">saniye</string>
+    <string name="new_record">🎉 Yeni Rekor! 🎉</string>
+    <string name="play_again">Tekrar Oyna</string>
+    <string name="share_score">X\'te Paylaş</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">Ayarlar</string>
+    <string name="save">Kaydet</string>
+    <string name="language">Dil</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_korean">한국어</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_russian">Русский</string>
+    
+    <!-- Navigation -->
+    <string name="back">Geri</string>
+    
+    <!-- Game Exit Dialog -->
+    <string name="exit_game_title">Oyundan Çıkış</string>
+    <string name="exit_game_message">Oyundan çıkmak istediğinize emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    
+    <!-- Audio Settings -->
+    <string name="audio_settings">Ses Ayarları</string>
+    <string name="background_music">Arka Plan Müziği</string>
+    <string name="sound_effects">Ses Efektleri</string>
+</resources>

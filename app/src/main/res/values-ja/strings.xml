@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizard Chase</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Wizard Chase</string>
+    <string name="welcome_subtitle">Anoma プロジェクト</string>
+    <string name="player_name_hint">プレイヤー名を入力してください</string>
+    <string name="start_game">ゲーム開始</string>
+    <string name="game_rules_title">ゲームルール</string>
+    <string name="game_rules">• ウィザードを捕まえてポイントを獲得\n• ウィザードは毎秒新しい位置に移動\n• パワーアップを集めてボーナスを獲得\n• 60秒以内に最高スコアを目指す</string>
+    
+    <!-- Game Screen -->
+    <string name="score">スコア</string>
+    <string name="time">時間</string>
+    <string name="wizard_description">ウィザード</string>
+    
+    <!-- Results Screen -->
+    <string name="game_over">ゲームオーバー！</string>
+    <string name="results">結果</string>
+    <string name="player">プレイヤー</string>
+    <string name="final_score">最終スコア</string>
+    <string name="time_played">プレイ時間</string>
+    <string name="seconds">秒</string>
+    <string name="new_record">🎉 新記録！🎉</string>
+    <string name="play_again">もう一度プレイ</string>
+    <string name="share_score">Xでシェア</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">設定</string>
+    <string name="save">保存</string>
+    <string name="language">言語</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_korean">한국어</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_russian">Русский</string>
+    
+    <!-- Navigation -->
+    <string name="back">戻る</string>
+    
+    <!-- Game Exit Dialog -->
+    <string name="exit_game_title">ゲーム終了</string>
+    <string name="exit_game_message">ゲームを終了しますか？</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+</resources>

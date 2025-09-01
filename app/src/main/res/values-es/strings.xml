@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizard Chase</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Wizard Chase</string>
+    <string name="welcome_subtitle">Proyecto Anoma</string>
+    <string name="player_name_hint">Ingresa tu nombre de jugador</string>
+    <string name="start_game">Iniciar Juego</string>
+    <string name="game_rules_title">Reglas del Juego</string>
+    <string name="game_rules">• Atrapa al mago para ganar puntos\n• El mago se mueve a una nueva posición cada segundo\n• Recolecta power-ups para bonificaciones\n• Obtén la puntuación más alta en 60 segundos</string>
+    
+    <!-- Game Screen -->
+    <string name="score">Puntuación</string>
+    <string name="time">Tiempo</string>
+    <string name="wizard_description">Mago</string>
+    
+    <!-- Results Screen -->
+    <string name="game_over">¡Juego Terminado!</string>
+    <string name="results">Resultados</string>
+    <string name="player">Jugador</string>
+    <string name="final_score">Puntuación Final</string>
+    <string name="time_played">Tiempo Jugado</string>
+    <string name="seconds">segundos</string>
+    <string name="new_record">🎉 ¡Nuevo Récord! 🎉</string>
+    <string name="play_again">Jugar de Nuevo</string>
+    <string name="share_score">Compartir en X</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">Configuración</string>
+    <string name="save">Guardar</string>
+    <string name="language">Idioma</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_korean">한국어</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_russian">Русский</string>
+    
+    <!-- Navigation -->
+    <string name="back">Atrás</string>
+    
+    <!-- Game Exit Dialog -->
+    <string name="exit_game_title">Salir del Juego</string>
+    <string name="exit_game_message">¿Estás seguro de que quieres salir del juego?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    
+    <!-- Audio Settings -->
+    <string name="audio_settings">Configuración de Audio</string>
+    <string name="background_music">Música de Fondo</string>
+    <string name="sound_effects">Efectos de Sonido</string>
+</resources>

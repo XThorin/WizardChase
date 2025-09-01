@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizard Chase</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Wizard Chase</string>
+    <string name="welcome_subtitle">Проект Anoma</string>
+    <string name="player_name_hint">Введите имя игрока</string>
+    <string name="start_game">Начать игру</string>
+    <string name="game_rules_title">Правила игры</string>
+    <string name="game_rules">• Ловите волшебника, чтобы заработать очки\n• Волшебник перемещается на новую позицию каждую секунду\n• Собирайте бонусы для получения преимуществ\n• Получите наивысший счет за 60 секунд</string>
+    
+    <!-- Game Screen -->
+    <string name="score">Счет</string>
+    <string name="time">Время</string>
+    <string name="wizard_description">Волшебник</string>
+    
+    <!-- Results Screen -->
+    <string name="game_over">Игра окончена!</string>
+    <string name="results">Результаты</string>
+    <string name="player">Игрок</string>
+    <string name="final_score">Финальный счет</string>
+    <string name="time_played">Время игры</string>
+    <string name="seconds">секунд</string>
+    <string name="new_record">🎉 Новый рекорд! 🎉</string>
+    <string name="play_again">Играть снова</string>
+    <string name="share_score">Поделиться в X</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">Настройки</string>
+    <string name="save">Сохранить</string>
+    <string name="language">Язык</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_korean">한국어</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_russian">Русский</string>
+    
+    <!-- Navigation -->
+    <string name="back">Назад</string>
+    
+    <!-- Game Exit Dialog -->
+    <string name="exit_game_title">Выйти из игры</string>
+    <string name="exit_game_message">Вы уверены, что хотите выйти из игры?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>
