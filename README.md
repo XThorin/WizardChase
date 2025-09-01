@@ -1,4 +1,4 @@
-# 🧙‍♂️ WizardChase
+# WizardChase
 
 <div align="center">
   <img width="1024" height="1536" alt="wizardChaseLogo" src="https://github.com/user-attachments/assets/904ee5b5-feb4-4ee1-a893-0f0d55588b44" />
